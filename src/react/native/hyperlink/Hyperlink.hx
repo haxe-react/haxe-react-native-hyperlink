@@ -1,4 +1,4 @@
 package react.native.hyperlink;
 
-@:jsRequire('react-native-hyperlink', 'default')
+@:jsRequire('react-native-hyperlink')
 extern class Hyperlink extends react.ReactComponent {}
